@@ -1,0 +1,4 @@
+ml-predict/venv/
+__pycache__/
+*.pyc
+*.pyd
